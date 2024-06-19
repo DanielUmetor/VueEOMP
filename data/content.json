@@ -1,0 +1,84 @@
+{
+    "jobTitles": [
+        { "id": 1, "title": "Aspiring Software Developer" }
+    ],
+    "personalInformation": {
+        "name": "Daniel Umetor",
+        "email": "dnumetor@gmail.com",
+        "phone": "073-878-0358",
+        "address": "123 Main St, Cape Town, South Africa",
+        "bio": "A passionate Aspiring software engineer with a love for developing innovative programs that expedite the efficiency and effectiveness of organizational success."
+    },
+    "details": {
+        "education": [
+            {
+                "degree": "Matric Certificate",
+                "institution": "Bellville Technical High School",
+                "year": "2018 - 2023"
+            }
+            
+        
+        ],
+        "experiences": [
+            {
+                "jobTitle": "Brand Ambassodor",
+                "company": "The Bed Shop",
+                "duration": "March 2024 - April 2024",
+                "responsibilities": [
+                    "Informing customers about the different types of beds, which are for comfort and for back pain, and also directing them to the main shop."
+                ]
+            }
+            
+        ],
+        "skills": [
+            "JavaScript",
+            "Python",
+            "HTML",
+            "CSS",
+            "VueJS"
+            
+        ],
+        "testimonials": [
+            {
+                "name": "Awodwa Hendrick",
+                "relationship": "Classmate",
+                "testimonial": "Daniel is an incredible friend and a brilliant coder. His passion for programming and quick grasp of complex concepts during our coding bootcamp have been truly inspiring. I'm confident he has a bright future ahead in tech!"
+            }, 
+            {
+                "name": "Chelsea Julie ",
+                "relationship": "Classmate",
+                "testimonial": "Daniel's dedication and talent have shone brightly throughout our coding bootcamp. His knack for problem-solving and eagerness to help others have made him an invaluable part of our group. I can't wait to see the amazing things he'll achieve in the tech world!"
+            },
+            {
+                "name": "Erin Williams",
+                "relationship": "Classmate",
+                "testimonial": "Daniel has been a standout in our coding bootcamp, consistently impressing us with his sharp intellect and knack for tackling challenging coding tasks."
+            },
+            {
+                "name": "Keira Kistensamy",
+                "relationship": "Classmate",
+                "testimonial": "Daniel's journey through the coding bootcamp has been nothing short of inspiring. His commitment to mastering new skills and solving complex problems sets him apart. As a friend, Daniel is always ready to share insights and support, making our learning experience richer. I have no doubt he'll make a significant impact in the tech world"
+            },
+            {
+                "name": "Jayden Van Rooyen",
+                "relationship": "Classmate",
+                "testimonial": "Daniel's dedication to mastering software development is truly impressive. His enthusiasm for learning new languages and frameworks is contagious, and his commitment to excellence sets him apart."
+            }
+            
+        ],
+        "projects": [
+            {
+                "name": "Temperature Converter",
+                "description": "A web application that converts the temperature from Fahrenheit to Degrees Celsius",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "url": "https://temperature-converter-bay.vercel.app/"
+            },
+            {
+                "name": "BMI Calculator",
+                "description": "The Body Mass Index (BMI) Calculator can be used to calculate BMI value and corresponding weight status while taking age into consideration",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "url": "https://bm-icalculator-five.vercel.app/"
+            }
+        ]
+    }
+}
