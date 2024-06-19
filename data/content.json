@@ -78,6 +78,12 @@
                 "description": "The Body Mass Index (BMI) Calculator can be used to calculate BMI value and corresponding weight status while taking age into consideration",
                 "technologies": ["HTML", "CSS", "JavaScript"],
                 "url": "https://bm-icalculator-five.vercel.app/"
+            },
+            {
+                "name": "Minutes to Seconds",
+                "description": "A converter that converts minutes to seconds",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "url": "https://minutes-to-seconds-tan.vercel.app/"
             }
         ]
     }
